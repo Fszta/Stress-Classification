@@ -1,7 +1,15 @@
 # Real time stress classification
 
+<h2>Matériel:</h2>
+<ul>
+  <li>Raspberry pi 3B+</li>
+  <li>Capteur ppg : <a href="https://pulsesensor.com/">link text</a></li>
+  <li>Convertisseur analogique numérique MCP3008</li>
+  <li>matplotib</li>
+  <li>keras</li>
+</ul> 
 <h2>Librairies:</h2>
-  <ul>
+<ul>
   <li>spidev</li>
   <li>numpy</li>
   <li>scipy</li>
