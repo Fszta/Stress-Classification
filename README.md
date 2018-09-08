@@ -1,13 +1,11 @@
 # Real time stress classification
 <br/>
-import sys
-import time
-import math
-import numpy as np
-import matplotlib.pyplot as plt
-from  get_value_sensor import PulseSensor
-from detect_peak import detect_peaks
-from keras.models import load_model
+<i>Librairies</i>
+-numpy<br/>
+-scipy<br/>
+-matplotlib<br/>
+-keras<br/>
+
 <br/>
 MCP3008.py : Contient le code du convertisseur analogique numérique du même nom 
 <br/><br/>
