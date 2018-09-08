@@ -5,7 +5,13 @@
 -scipy<br/>
 -matplotlib<br/>
 -keras<br/>
-
+ <ul>
+  <li>spidev</li>
+  <li>numpy</li>
+  <li>scipy</li>
+  <li>matplotib</li>
+  <li>keras</li>
+</ul> 
 <br/>
 MCP3008.py : Contient le code du convertisseur analogique numérique du même nom 
 <br/><br/>
