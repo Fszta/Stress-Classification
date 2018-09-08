@@ -3,6 +3,8 @@
 <ul>
   <li>Filtrage du signal avec un passe-bande de butterworth</li>
   <li>Détection des piques(pulsations cardiaques)</li>
+  ![GitHub Logo](/images/signa.png)
+  
   <li>Extraction des intervalles de temps entre chaque pulsation(intervalle R-R)</li>
   <li>Calcul des mesures de la variabilité cardiaque à partir des R-R "></li>
   
