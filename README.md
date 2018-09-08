@@ -1,10 +1,6 @@
 # Real time stress classification
 <br/>
 <i>Librairies</i>
--numpy<br/>
--scipy<br/>
--matplotlib<br/>
--keras<br/>
  <ul>
   <li>spidev</li>
   <li>numpy</li>
