@@ -1,15 +1,15 @@
 # Real time stress classification
-<br/>
-<i>Librairies:</i>
- <ul>
+
+<h2>Librairies:</h2>
+  <ul>
   <li>spidev</li>
   <li>numpy</li>
   <li>scipy</li>
   <li>matplotib</li>
   <li>keras</li>
 </ul> 
-<br/>
-<i>Codes:</i>
+
+<h2>Codes:</h2>
  <ul>
   <li>MCP3008.py: Code du convertisseur analogique numérique du même nom </li>
   <li>get_pulse.py: Code du capteur photopléthysmographique</li>
@@ -19,8 +19,7 @@
 
 </ul> 
 
-<br/>
-<br/>
+
 
 
 ![GitHub Logo](/images/schéma_final.png)
