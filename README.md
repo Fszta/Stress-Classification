@@ -37,8 +37,8 @@
   <li>Filtrage du signal avec un passe-bande de butterworth</li>
   <li>Détection des des piques(pulsations cardiaques)</li>
   <li>Extraction des intervalles de temps entre chaque pulsation(intervalle R-R)</li>
-  <li>Calcul des mesures de la variabilité cardiaque à partir des R-R ">![GitHub Logo](/images/formule.png)</li>
-  
+  <li>Calcul des mesures de la variabilité cardiaque à partir des R-R "></li>
+  ![GitHub Logo](/images/formule.png)
   <li>Injecte les mesures chaque seconde dans le modèle de classification</li>
 </ul> 
 
