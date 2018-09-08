@@ -8,6 +8,7 @@
   <li>matplotib</li>
   <li>keras</li>
 </ul> 
+
 <h2>Librairies:</h2>
 <ul>
   <li>spidev</li>
@@ -30,3 +31,13 @@
 <h2>Schéma électronique:</h2>
 
 ![GitHub Logo](/images/schéma_final.png)
+
+<h2>Fonctionnement:</h2>
+<ul>
+  <li>Filtrage du signal avec un passe-bande de butterworth</li>
+  <li>Détection des des piques(pulsations cardiaques)</li>
+  <li>Extraction des intervalles de temps entre chaque pulsation(intervalle R-R)</li>
+  <li>Calcul des mesures de la variabilité cardiaque à partir des R-R</li>
+  <li>Injecte les mesures chaque seconde dans le modèle de classification</li>
+</ul> 
+
