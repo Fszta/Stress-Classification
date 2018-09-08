@@ -2,7 +2,7 @@
 
 <h2>Matériel:</h2>
 <ul>
-  <li>Raspberry pi 3B+</li>
+  <li>Raspberry pi 3B+ sous Raspbian</li>
   <li>Capteur ppg : <a href="https://pulsesensor.com/">pulse sensor</a></li>
   <li>Convertisseur analogique numérique MCP3008</li>
   <li>matplotib</li>
