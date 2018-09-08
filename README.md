@@ -1,14 +1,14 @@
 # Real time stress classification
-<br/>
-<ul>
+
 <h2>Librairies:</h2>
- 
+  <ul>
   <li>spidev</li>
   <li>numpy</li>
   <li>scipy</li>
   <li>matplotib</li>
   <li>keras</li>
 </ul> 
+
 <br/>
 <h2>Codes:</h2>
  <ul>
