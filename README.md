@@ -9,7 +9,6 @@
   <li>keras</li>
 </ul> 
 
-<br/>
 <h2>Codes:</h2>
  <ul>
   <li>MCP3008.py: Code du convertisseur analogique numérique du même nom </li>
@@ -20,8 +19,7 @@
 
 </ul> 
 
-<br/>
-<br/>
+
 
 
 ![GitHub Logo](/images/schéma_final.png)
