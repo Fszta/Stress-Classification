@@ -7,6 +7,9 @@
   ![GitHub Logo](/images/signal.png)
   
   <li>Extraction des intervalles de temps entre chaque pulsation(intervalle R-R)</li>
+  
+  ![GitHub Logo](/images/Tachogramme.png)
+  
   <li>Calcul des mesures de la variabilité cardiaque à partir des R-R "></li>
   
   ![GitHub Logo](/images/formule.png)
