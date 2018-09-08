@@ -1,6 +1,6 @@
 # Real time stress classification
 <br/>
-<i>Librairies:</i>
+<i><h2>Librairies:</h2></i>
  <ul>
   <li>spidev</li>
   <li>numpy</li>
