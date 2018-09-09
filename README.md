@@ -8,7 +8,7 @@
   
   ![GitHub Logo](/images/signal.png)
   
-  <hr line-height = 0.5>
+  <hr line-height = "0.5">
   <li><h3>3) Extraction des intervalles de temps entre chaque pulsation (intervalle R-R)</h3></li>
   
   ![GitHub Logo](/images/Tachogramme.png)
