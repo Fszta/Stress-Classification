@@ -3,12 +3,12 @@
 <ul>
   <li><h3>1) Filtrage du signal avec un passe-bande de butterworth</h3></li>
   Utilisation d'un passe-bande d'ordre 4 avec comme fréquences de coupures [0,8 Hz; 4 Hz], ce qui correspond à des fréquences cardiaques de 48 à 240 battements par minute
-  <hr/>
+ 
   <li><h3>2) Détection des piques (pulsations cardiaques)</h3></li>
   
   ![GitHub Logo](/images/signal.png)
   
-  <hr line-height = "0.5">
+ 
   <li><h3>3) Extraction des intervalles de temps entre chaque pulsation (intervalle R-R)</h3></li>
   
   ![GitHub Logo](/images/Tachogramme.png)
