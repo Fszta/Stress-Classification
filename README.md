@@ -21,7 +21,7 @@
   <h4>
     1 mesure fréquentielle
   </h4> 
-  <p>Obtenue par transformée de fourier du tachogramme : la balance sympato-vagale <i>(BSV)</i></p>
+  <p>Obtenue par transformée de fourier du tachogramme : la balance sympato-vagale <b>(BSV)</b></p>
   
   ![GitHub Logo](/images/bsv.png)
     
@@ -41,8 +41,6 @@
   <li>Raspberry pi 3B+ sous Raspbian</li>
   <li>Capteur ppg : <a href="https://pulsesensor.com/">pulse sensor</a></li>
   <li>Convertisseur analogique numérique <a href="/datasheet_MCP/MCP3008.pdf">MCP3008</a></li>
-  <li>matplotib</li>
-  <li>keras</li>
 </ul> 
 
 <h2>Librairies:</h2>
