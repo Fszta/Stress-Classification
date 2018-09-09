@@ -35,8 +35,9 @@
       </ul>     
   </p>
   <li><h3>5) Injecte les mesures chaque seconde dans le modèle de classification</h3></li>
-  <p>Les 4 mesures de la VFC sont les features de notre modèle</p>
-</ul> 
+  <p>Les 4 mesures de la VFC sont les features de notre
+  <a href ="https://github.com/Fszta/Hrv-classification">modèle de classification</a></p>
+<
 
 <h2>Matériel:</h2>
 <ul>
