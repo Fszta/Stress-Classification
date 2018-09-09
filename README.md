@@ -22,6 +22,10 @@
   
   ![GitHub Logo](/images/bsv.png)
   
+  <p align="center">
+  <img width="460" height="300" src="/images/bsv.png>
+  </p>
+  
   <li><h3>Injecte les mesures chaque seconde dans le modèle de classification</h3></li>
   <p>Les 4 mesures de la VFC sont les features de notre modèle</p>
 </ul> 
