@@ -2,6 +2,7 @@
 <h2>Fonctionnement:</h2>
 <ul>
   <li><h3>Filtrage du signal avec un passe-bande de butterworth</h3></li>
+  Utilisation d'un passe-bande d'ordre 4 avec comme fréquences de coupures [0,8 Hz; 4 Hz], ce qui correspond à des fréquences cardiaques de 48 à 240 battements par minute
   <li>Détection des piques(pulsations cardiaques)</li>
   
   ![GitHub Logo](/images/signal.png)
