@@ -13,7 +13,9 @@
   
   <li><h3>Calcul des mesures de la variabilité cardiaque à partir des R-R</h3></li>
   <p> 4 mesures utilisées : </p> <br/>
+  
   ![GitHub Logo](/images/formule.png)
+  
   <br/>
   <p>1 mesure fréquentielle obtenue par transformée de fourier du tachogramme</p>
   
