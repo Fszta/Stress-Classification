@@ -19,13 +19,16 @@
   <br/>
   <p>BPM : nombre de battements par minutes</p>
   <p>1 mesure fréquentielle obtenue par transformée de fourier du tachogramme : la balance sympato-vagale <i>(BSV)</i></p>
-  <p align="center">
   
   ![GitHub Logo](/images/bsv.png)
-  
+    
+  <p>
+      BSV = LF/HF avec :
+      <ul>
+        <li>LF: De 0.04 Hz à 0.15 Hz, reflète l’activité sympathique du système nerveux autonome.</li>
+        <li>HF: De 0.15 Hz à 0.4 Hz, reflète l’activité parasympathique du système nerveux autonome</li>
+      </ul>     
   </p>
-  
-  
   <li><h3>Injecte les mesures chaque seconde dans le modèle de classification</h3></li>
   <p>Les 4 mesures de la VFC sont les features de notre modèle</p>
 </ul> 
