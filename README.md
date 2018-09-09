@@ -1,7 +1,7 @@
 # Real time stress classification
 <h2>Fonctionnement:</h2>
 <ul>
-  <li>Filtrage du signal avec un passe-bande de butterworth</li>
+  <li><h3>Filtrage du signal avec un passe-bande de butterworth</h3></li>
   <li>Détection des piques(pulsations cardiaques)</li>
   
   ![GitHub Logo](/images/signal.png)
