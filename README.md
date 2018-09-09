@@ -17,8 +17,10 @@
   ![GitHub Logo](/images/formule.png)
   
   <br/>
-  <p>1 mesure fréquentielle obtenue par transformée de fourier du tachogramme</p>
+  <p>BPM : nombre de battements par minutes</p>
+  <p>1 mesure fréquentielle obtenue par transformée de fourier du tachogramme : la balance sympato-vagale <i>(BSV)</i></p>
   
+  ![GitHub Logo](/images/bsv.png)
   
   <li><h3>Injecte les mesures chaque seconde dans le modèle de classification</h3></li>
   <p>Les 4 mesures de la VFC sont les features de notre modèle</p>
