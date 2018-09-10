@@ -7,7 +7,7 @@
   <li><h3>2) Détection des piques (pulsations cardiaques)</h3></li>
   
   <img src="images/signal.png" alt="hi" class="inline"/>
- ![GitHub Logo](/images/signal.png)
+ 
   
  
   <li><h3>3) Extraction des intervalles de temps entre chaque pulsation (intervalle R-R)</h3></li>
