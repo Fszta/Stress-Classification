@@ -17,7 +17,6 @@
   <li><h3>4) Calcul des mesures de la variabilité cardiaque à partir des R-R</h3></li>
   <h4>3 mesures temporelles: </h4><br/>
   
-  ![GitHub Logo](/images/formule.png)
    <img src="images/formule.png" alt="hi" class="inline"/>
 
   
