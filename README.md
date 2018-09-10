@@ -50,11 +50,14 @@
 
 <h2>Librairies:</h2>
 <ul>
-  <li>spidev</li>
-  <li>numpy</li>
-  <li>scipy</li>
-  <li>matplotib</li>
-  <li>keras</li>
+  <li>spidev==3.3</li>
+  <li>numpy==1.13.3</li>
+  <li>scipy==1.0.1</li>
+  <li>matplotib==2.2.2</li>
+  <li>Keras==2.0.5</li>
+  <li>h5py==2.8.0</li>
+  <li>Theano==1.0.2</li>
+  <li>tensorflow==1.1.0</li>
 </ul> 
 
 <h2>Codes:</h2>
