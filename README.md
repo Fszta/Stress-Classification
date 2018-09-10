@@ -69,9 +69,7 @@
 </ul> 
 
 <h2>Schéma électronique:</h2>
-
-![GitHub Logo](/images/schéma_final.png)
- <img src="images/schéma_final.png" alt="hi" class="inline"/>
+<img src="images/schéma_final.png" alt="hi" class="inline"/>
 
 
 
