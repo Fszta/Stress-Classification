@@ -1,20 +1,20 @@
 # Real time stress classification
 <h2>Fonctionnement:</h2>
-<ul>
-  <li><h3>1) Filtrage du signal avec un passe-bande de butterworth</h3></li>
+
+  <h3>1) Filtrage du signal avec un passe-bande de butterworth</h3>
   Utilisation d'un passe-bande d'ordre 4 avec comme fréquences de coupures [0,8 Hz; 4 Hz], ce qui correspond à des fréquences cardiaques de 48 à 240 battements par minute
  
-  <li><h3>2) Détection des piques (pulsations cardiaques)</h3></li>
+  <h3>2) Détection des piques (pulsations cardiaques)</h3>
   
   <img src="images/signal.png" alt="hi" class="inline"/>
  
   
  
-  <li><h3>3) Extraction des intervalles de temps entre chaque pulsation (intervalle R-R)</h3></li>
+  <h3>3) Extraction des intervalles de temps entre chaque pulsation (intervalle R-R)</h3>
     <img src="images/Tachogramme.png" alt="hi" class="inline"/>
 
   
-  <li><h3>4) Calcul des mesures de la variabilité cardiaque à partir des R-R</h3></li>
+  <h3>4) Calcul des mesures de la variabilité cardiaque à partir des R-R</h3>
   <h4>3 mesures temporelles: </h4><br/>
   
    <img src="images/formule.png" alt="hi" class="inline"/>
@@ -37,7 +37,7 @@
         <li>HF: De 0.15 Hz à 0.4 Hz, reflète l’activité parasympathique du système nerveux autonome</li>
       </ul>     
   </p>
-  <li><h3>5) Injecte les mesures chaque seconde dans le modèle de classification</h3></li>
+  <h3>5) Injecte les mesures chaque seconde dans le modèle de classification</h3>
   <p>Les 4 mesures de la VFC sont les features de notre
   <a href ="https://github.com/Fszta/Hrv-classification">modèle de classification</a></p>
 
