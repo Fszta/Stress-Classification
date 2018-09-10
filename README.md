@@ -11,13 +11,15 @@
   
  
   <li><h3>3) Extraction des intervalles de temps entre chaque pulsation (intervalle R-R)</h3></li>
-  
-  ![GitHub Logo](/images/Tachogramme.png)
+    <img src="images/Tachogramme.png" alt="hi" class="inline"/>
+
   
   <li><h3>4) Calcul des mesures de la variabilité cardiaque à partir des R-R</h3></li>
   <h4>3 mesures temporelles: </h4><br/>
   
   ![GitHub Logo](/images/formule.png)
+   <img src="images/formule.png" alt="hi" class="inline"/>
+
   
   <br/>
   <p><b>BPM</b> : nombre de battements par minutes</p>
@@ -26,7 +28,8 @@
   </h4> 
   <p>Obtenue par transformée de fourier du tachogramme : la balance sympato-vagale <b>(BSV)</b></p>
   
-  ![GitHub Logo](/images/bsv.png)
+  <img src="images/bsv.png" alt="hi" class="inline"/>
+
     
   <p>
   <b>BSV</b> = LF/HF avec :
@@ -68,6 +71,7 @@
 <h2>Schéma électronique:</h2>
 
 ![GitHub Logo](/images/schéma_final.png)
+ <img src="images/schéma_final.png" alt="hi" class="inline"/>
 
 
 
