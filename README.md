@@ -11,7 +11,8 @@
   
  
   <h3>3) Extraction des intervalles de temps entre chaque pulsation (intervalle R-R)</h3>
-    <img src="images/Tachogramme.png" alt="hi" class="inline"/>
+  
+  <img src="images/Tachogramme.png" alt="hi" class="inline"/>
 
   
   <h3>4) Calcul des mesures de la variabilité cardiaque à partir des R-R</h3>
